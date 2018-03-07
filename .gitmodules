@@ -1,0 +1,6 @@
+[submodule "VncSharp"]
+	path = VncSharp
+	url = https://github.com/humphd/VncSharp.git
+[submodule "SharpAvi"]
+	path = SharpAvi
+	url = https://github.com/baSSiLL/SharpAvi.git
